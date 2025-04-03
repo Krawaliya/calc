@@ -19,6 +19,12 @@ public class Addition {
         // Display the result
         System.out.println("The sum is: " + sum);
 
+	//cal the sub
+	double sub = num1 - num2;
+
+	//display the sub
+	System.out.println("The sub is: "+sub);
+
         // Close the scanner
         scanner.close();
     }
