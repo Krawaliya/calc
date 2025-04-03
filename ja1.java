@@ -19,6 +19,12 @@ public class Addition {
         // Display the result
         System.out.println("The sum is: " + sum);
 
+        //calculate multi
+        double mul= num1 * num2;
+
+        //display the mul
+        System.out.println('The mul is ' +mul);
+
         // Close the scanner
         scanner.close();
     }
